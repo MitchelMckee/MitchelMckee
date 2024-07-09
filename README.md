@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Student @ Northumbria University<br>Studying Computer Science with Artificial Intelligence<br>Currently working on Olenium.co.uk<br>
+Recent Graduate from Northumbria University<br>Computer Science with Artificial Intelligence<br>Currently working on Olenium.co.uk<br>
 
 ## 🌐 Socials:
 
