@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Recent Graduate from Northumbria University<br>Computer Science with Artificial Intelligence<br>Currently working on Olenium.co.uk and DashPoint<br>
+<br>Computer Science with Artificial Intelligence Bsc<br>Currently working on DashPoint<br>
 
 ## 🌐 Socials:
 
